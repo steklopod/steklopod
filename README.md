@@ -1,2 +1,1 @@
-### Hi there, 👋 I'm Dmitry
-- 🔭 
+### Hi there 👋 I'm Dmitry, backend developer & `kotlin` fan
